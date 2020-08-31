@@ -1,5 +1,7 @@
 # Baltimore-Crime-Prediction
 Baltimore Police Department's Crime Dataset (1957-2020)
 
+Weekly-Trend-Graph:
+![alt text][logo]
 
-![SARIMAX](http://localhost:8888/view/SARIMAX%20Crime%20Forecast.png "SARIMAX Crime Prediction")
+[logo]: https://github.com/thespence7/Baltimore-Crime-Prediction/images/UpdatedWeeklyTrendGraph.png "My image 1"
