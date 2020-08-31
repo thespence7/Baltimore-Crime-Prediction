@@ -2,6 +2,4 @@
 Baltimore Police Department's Crime Dataset (1957-2020)
 
 Weekly-Trend-Graph:
-![alt text][logo]
-
-[logo]: https://github.com/thespence7/Baltimore-Crime-Prediction/images/UpdatedWeeklyTrendGraph.png "My image 1"
+![alt text](http://localhost:8888/view/images/UpdatedWeeklyTrendGraph.png "Image 1")
